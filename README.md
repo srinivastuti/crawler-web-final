@@ -2,4 +2,10 @@
 
 <B> Building from Source </B>
 
-mvn springboot:run
+<li> mvn springboot:run </li>
+
+
+<B> After start the application check below link </B>
+
+
+<li><a> http://localhost:9099/ </a> </li>
